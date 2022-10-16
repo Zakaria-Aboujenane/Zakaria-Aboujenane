@@ -47,8 +47,7 @@
     <tr>
       <th>IDEs</th>
       <th>Text Editors</th>
-      <th>Tools and OS</th>
-      <th>Misc.</th>
+      <th colspan="2">Tools and OS</th>
       <th>Interests</th>
     </tr>
     </thead>
