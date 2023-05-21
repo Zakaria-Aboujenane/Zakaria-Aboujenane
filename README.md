@@ -2,9 +2,7 @@
 <div align = "center">
 
 # 💻 Hey There, I am Zakaria, I am interested in microservices architectures and Artificial Intelligence
-<p align="middle">
-  <img width="600" src="https://github-profile-trophy.vercel.app/?username=omarbelkady&rank=SS,S,AAA,AA,A,B,C&row=1&column=5"/>
-</p>
+
 <br>
   <table align ="center">
     <thead>
